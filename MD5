@@ -1,0 +1,16 @@
+631e1efb2a46a3a432785662eb05036c *DESCRIPTION
+7e02663b81c9cfa5b5514dde52564f32 *NAMESPACE
+f6310e06497c4972f313e87a828666f1 *R/gwerAM.R
+9d4b73453a00fcd45e223b8b24a8d03a *TITEL
+1b9f8922c1e3b2271ab7cfcc7acc1fdc *data/maizeA.rda
+5eb08166f25f7e5da46f6d772e560e1b *data/maizeQ.rda
+b23ce55edce25fbbfeecccde498666db *data/maizeW.rda
+5d4e014bf4c67ecc236d6a1b7a4f4724 *data/maizevarianceA.rda
+dcae65f0d28891b0982631ef022c39b7 *data/maizevarianceE.rda
+c355384ce1cbff0c1e005f8172650715 *man/gwerAM-internal.Rd
+23063fb93191fa8e33f27cd77210fad5 *man/gwerAM.Rd
+3ac60188001e68eafe9a6d693ecdf48f *man/maizeA.Rd
+5ac4694a9dac0330e1f6beb08be60e11 *man/maizeQ.Rd
+24d8dd1c2126b2b25870b7da08935f25 *man/maizeW.Rd
+674a5234391e0e890c5c9a82305682df *man/maizevarianceA.Rd
+fb145da6311db75f8197a4b31056b6aa *man/maizevarianceE.Rd
